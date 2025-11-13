@@ -32,7 +32,7 @@ Vi tittar på hur man typar props och state, använder interfaces för komponent
 ### Lektionsrepon
 
 * [11 nov](https://github.com/fu-fullstack-fe24/week-45-lecture-11-nov)
-* [13 nov]()
+* [13 nov](https://github.com/fu-fullstack-fe24/week-46-lecture-13-nov)
 
 ### Filmer
 
